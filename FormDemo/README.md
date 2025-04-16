@@ -4,7 +4,7 @@ FormDemo is a simple application that displays "Hello, Visual World!"
 
 ## Usage/Examples
 
-![App Screenshot](FormDemo.jpg)
+![App Screenshot](files/FormDemo.jpg)
 
 # Features
 - Two buttons and labels
