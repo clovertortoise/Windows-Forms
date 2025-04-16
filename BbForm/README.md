@@ -4,7 +4,7 @@ BbForm is an interactive menu for a Bed and Breakfast.
 
 ## Usage/Examples
 
-![App Screenshot](BbForm.jpg)
+![App Screenshot](files/BbForm.jpg)
 
 # Features
 - Two checkboxes containing prices for each room
@@ -18,8 +18,8 @@ BbForm is an interactive menu for a Bed and Breakfast.
 <details>
  <summary>More Screenshots</summary>
  
-![App Screenshot](HallHouseRoom.jpg)
+![App Screenshot](files/HallHouseRoom.jpg)
 
-![App Screenshot](BreakfastOptionForm.jpg)
+![App Screenshot](files/BreakfastOptionForm.jpg)
 
 </details>
