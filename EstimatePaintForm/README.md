@@ -4,7 +4,7 @@ EstimatePaintForm is a Windows application that calculates the cost of paint for
 
 ## Usage/Examples
 
-![App Screenshot](/files/EstimatePaintForm.jpg)
+![App Screenshot](EstimatePaintForm/files/EstimatePaintForm.jpg)
 
 ## Features
 - Adaptation of the previous [Estimate Paint Cost](EstimatePaintCost) program to run in a Windows Form
@@ -17,6 +17,6 @@ EstimatePaintForm is a Windows application that calculates the cost of paint for
 <details>
  <summary>More Screenshots</summary>
  
-![App Screenshot](/files/InputTesting.jpg)
+![App Screenshot](EstimatePaintForm/files/InputTesting.jpg)
 
  </details>
